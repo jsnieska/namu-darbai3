@@ -1,0 +1,44 @@
+body {
+    font-family: Inconsolata;
+}
+
+table {
+    border: 5px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+th {
+    text-align: left;
+    padding-right: 50px;
+    border: 5px solid black;
+    background: white;
+    font-size: 30px;
+}
+
+
+td {
+    padding-right: 150px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 5px solid black;
+    background: white;
+    color: black;
+    font-size: 30px;
+}
+
+.orange {
+    background: orange;
+    color: white;
+}
+
+.blue {
+    background: blue;
+    color: white;
+}
+
+.green {
+    background: green;
+    color: white;
+}
